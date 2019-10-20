@@ -18,7 +18,7 @@ end
 
 introduction_with_language("Dan", "Ember.js")
 introduction_with_language("Edwin", "ruby")
-introduction_with_language("Edwin", "Ember.js")
+introduction_with_language("Edwin", "Python")
 
 
 
